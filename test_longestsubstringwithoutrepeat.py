@@ -23,6 +23,13 @@ def test_case4_singleword():
     solution = Solution()
     res = solution.length_of_longest_substr(testword)
     assert res == expectedresult
+def test_case5_emptystring():
+    testword=""
+    expectedresult = 0
+    solution = Solution()
+    res = solution.length_of_longest_substr(testword)
+    assert res == expectedresult
+
 
 
 
