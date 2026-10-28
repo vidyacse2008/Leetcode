@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "ai-qa-copilot",
+      "runtimeExecutable": "/Users/vidyasrinivasan/ai-qa-copilot/dev.sh",
+      "runtimeArgs": [],
+      "port": 3000
+    }
+  ]
+}

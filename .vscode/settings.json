@@ -1,0 +1,13 @@
+{
+    "python.REPL.enableREPLSmartSend": false,
+    "editor.inlineSuggest.enabled": false,
+    "editor.quickSuggestions": {
+        "other": false,
+        "comments": false,
+        "strings": false
+    },
+    "editor.suggestOnTriggerCharacters": false,
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.tabCompletion": "off",
+    "editor.parameterHints.enabled": false
+}

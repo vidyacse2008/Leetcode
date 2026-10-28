@@ -29,6 +29,12 @@ def test_case5_emptystring():
     solution = Solution()
     res = solution.length_of_longest_substr(testword)
     assert res == expectedresult
+def test_case6_repeatedcharacters():
+    testword="aabbcc"
+    expectedresult = 2
+    solution = Solution()
+    res = solution.length_of_longest_substr(testword)
+    assert res == expectedresult
 
 
 
